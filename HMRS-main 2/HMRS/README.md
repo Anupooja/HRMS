@@ -1,2 +1,0 @@
-# HMRS
- IST412/Group/HMRS
